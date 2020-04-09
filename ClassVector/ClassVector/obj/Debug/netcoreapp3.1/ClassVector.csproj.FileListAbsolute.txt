@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.exe
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.deps.json
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.runtimeconfig.json
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.runtimeconfig.dev.json
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.dll
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\bin\Debug\netcoreapp3.1\ClassVector.pdb
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\obj\Debug\netcoreapp3.1\ClassVector.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\obj\Debug\netcoreapp3.1\ClassVector.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\obj\Debug\netcoreapp3.1\ClassVector.AssemblyInfo.cs
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\obj\Debug\netcoreapp3.1\ClassVector.dll
+C:\Users\user\Desktop\Epam\ClassVector\ClassVector\obj\Debug\netcoreapp3.1\ClassVector.pdb
